@@ -11,6 +11,5 @@ modifiers:
 
 Notes: a,b,c,d,e,f,g
 
-todo:
--implement a UI
--implement sharp and flat notation
+note:
+-does not yet include sharp and flat input/notation
